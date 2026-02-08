@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>snowsql/bootstrap/1.3/linux_x86_64/snowsql-linux_x86_64.bash</Key><RequestId>HRNSHYTF0VTPW3X6</RequestId><HostId>vwwdKUutyjgBVNBCc+2m4QpPC4F7nZ5WkpAwvDjTxkPTDOcKdRfSJGJ4uI4UJbO1nCG+YQit+IQmdYC8S4wYO5j38a6JUUuhJOFYTEn/wM8=</HostId></Error>

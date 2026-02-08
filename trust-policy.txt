@@ -1,0 +1,18 @@
+-- run command 
+    
+  1)  snow connection add
+snow connection add = 
+        Enter connection name: First connection
+        Enter account: TDFNAGE-OAC93680
+        Enter user: MUHAMMADZAID
+        Enter password: [Enter]   ← blank chhor do
+        Enter role: ACCOUNTADMIN
+        Enter warehouse: COMPUTE_WH
+        Enter database: SNOWFLAKE_LOADING_DB
+        Enter schema: SNOWFLAKE_LOADING_SCHEMA
+        Enter host: TDFNAGE-OAC93680.snowflakecomputing.com
+        Enter port: [Enter]
+        Enter region: [Enter]
+        Enter authenticator: externalbrowser
+
+
